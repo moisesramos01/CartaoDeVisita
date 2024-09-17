@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(to left, #0019fc, #00ffea);
+    color: black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 40%
+    }
+nav{ background: linear-gradient(to left, #0019fc, #00ffea);
+    color: black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 20%}
+    footer{
+        background: linear-gradient(to left, #0019fc, #00ffea);
+        color: black;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        border-radius: 20%
+    }
+
+        img{ border-radius: 50%;}
